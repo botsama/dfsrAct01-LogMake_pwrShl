@@ -7,7 +7,8 @@ Implement DFSR monitoring to collect instance details
   Check health state of Replication folder
   
 
-[Act 02](https://github.com/botsama/dfsrAct02-LogAction_pwrShl) script will perform some conditions, based off the contents of this master log file.  This Act01 file generates the logs, used by [Act 02 script](https://github.com/botsama/dfsrAct02-LogAction_pwrShl)
+[Act 02](https://github.com/botsama/dfsrAct02-LogAction_pwrShl) script will perform some conditions, based off the contents of this master log file.  
+This Act01 file generates the logs, used by [Act 02 script](https://github.com/botsama/dfsrAct02-LogAction_pwrShl)
 This job best works scheduled hourly from scheduled tasks (Cron for Windows, essentially).
 
 Advised to schedule this on your secondary DFSR server, but only needed on One of the Two servers. As the script will queue both directions and servers upon script being run
