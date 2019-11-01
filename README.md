@@ -15,5 +15,6 @@ Act 02 script will perform some conditions, based off the contents of this maste
 In case you wonder what DFS-R is, it is Microsoft's Distributed File System Replication.
 https://docs.microsoft.com/en-us/powershell/module/dfsr/?view=win10-ps
 
-###For Server 2012 non-R2 lacking PowerShell DFSR utilities###
+**For Server 2012 non-R2 lacking PowerShell DFSR utilities**
+
 Post Server 2012-R2 editions have really robust powershell support but these scripts are tooled for compatibility with Server 2012-Non R2 support by polling DFSR state with OS-level commands and building log history.
