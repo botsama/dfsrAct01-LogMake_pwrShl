@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/secondraw/5bbf8443-7599-4324-b501-11880661b1ae/4c9b1020-bb63-4fb4-a4fc-a18fb697f662/_apis/work/boardbadge/9cd4f7b2-1c79-4cef-9552-9c0fd7ed7914)](https://dev.azure.com/secondraw/5bbf8443-7599-4324-b501-11880661b1ae/_boards/board/t/4c9b1020-bb63-4fb4-a4fc-a18fb697f662/Microsoft.RequirementCategory)
 # dfsrAct01-LogMake_pwrShl
 Implement DFSR monitoring to collect instance details
 
